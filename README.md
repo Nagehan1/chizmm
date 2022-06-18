@@ -1,2 +1,0 @@
-# chizmm
-github
